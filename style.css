@@ -1,0 +1,4 @@
+body,html{
+    background:url('image/fond.jpg') no-repeat fixed;
+    background-size: cover;
+}
